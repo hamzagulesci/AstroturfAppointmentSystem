@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaliSahaTakipOtomasyonu", "HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu.csproj", "{C7A28100-EA14-4649-AEC7-A63CE69780FF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HaliSahaRandevu", "HaliSahaRandevu\HaliSahaRandevu.vdproj", "{321BAE17-F8C8-4EE0-8A8F-F006F9638222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A28100-EA14-4649-AEC7-A63CE69780FF}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{C7A28100-EA14-4649-AEC7-A63CE69780FF}.Debug|Any CPU.Build.0 = Debug|x64
+		{C7A28100-EA14-4649-AEC7-A63CE69780FF}.Debug|x64.ActiveCfg = Debug|x64
+		{C7A28100-EA14-4649-AEC7-A63CE69780FF}.Debug|x64.Build.0 = Debug|x64
+		{C7A28100-EA14-4649-AEC7-A63CE69780FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A28100-EA14-4649-AEC7-A63CE69780FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A28100-EA14-4649-AEC7-A63CE69780FF}.Release|x64.ActiveCfg = Release|x64
+		{C7A28100-EA14-4649-AEC7-A63CE69780FF}.Release|x64.Build.0 = Release|x64
+		{321BAE17-F8C8-4EE0-8A8F-F006F9638222}.Debug|Any CPU.ActiveCfg = Debug
+		{321BAE17-F8C8-4EE0-8A8F-F006F9638222}.Debug|x64.ActiveCfg = Debug
+		{321BAE17-F8C8-4EE0-8A8F-F006F9638222}.Release|Any CPU.ActiveCfg = Release
+		{321BAE17-F8C8-4EE0-8A8F-F006F9638222}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {931E14EA-1713-42A4-BB7E-43D8DDED5D99}
+	EndGlobalSection
+EndGlobal

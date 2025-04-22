@@ -1,0 +1,87 @@
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.exe.config
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.exe
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.pdb
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.AdminPaneli.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Gelirler.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Giderler.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.GirisPaneli.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Properties.Resources.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Rendevu.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Rendevuİslemleri.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.exe
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.pdb
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.HesapOlustur.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Personel.resources
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.exe.config
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.exe
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.pdb
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.AdminPaneli.resources
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Gelirler.resources
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Giderler.resources
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.GirisPaneli.resources
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.HesapOlustur.resources
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Personel.resources
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Properties.Resources.resources
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Rendevu.resources
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Rendevuİslemleri.resources
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.exe
+C:\Users\PC\Desktop\HaliSahaOtomasyon\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.pdb
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.exe.config
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.exe
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.pdb
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.AssemblyReference.cache
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.AdminPaneli.resources
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Gelirler.resources
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Giderler.resources
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.GirisPaneli.resources
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.HesapOlustur.resources
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Personel.resources
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Properties.Resources.resources
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Rendevu.resources
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Rendevuİslemleri.resources
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.GenerateResource.cache
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.CoreCompileInputs.cache
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.exe
+E:\Performans\HamzaPerformans\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.pdb
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.exe.config
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.exe
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.pdb
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.AdminPaneli.resources
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Gelirler.resources
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Giderler.resources
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.GirisPaneli.resources
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.HesapOlustur.resources
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Personel.resources
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Properties.Resources.resources
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Rendevu.resources
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Rendevuİslemleri.resources
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.exe
+C:\Users\PC\Desktop\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.pdb
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Kullanicilar.resources
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.exe.config
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.exe
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\bin\x64\Debug\HaliSahaTakipOtomasyonu.pdb
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.AdminPaneli.resources
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Gelirler.resources
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Giderler.resources
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.GirisPaneli.resources
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.HesapOlustur.resources
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Kullanicilar.resources
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Personel.resources
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Properties.Resources.resources
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Rendevu.resources
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.Rendevuİslemleri.resources
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.exe
+C:\Users\PC\Desktop\10E 725 Hamza GÜLEŞCİ(HaliSahaTakipOtomasyonu)\HaliSahaTakipOtomasyonu\obj\x64\Debug\HaliSahaTakipOtomasyonu.pdb

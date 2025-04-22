@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.AdminPaneli.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.Gelirler.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.Giderler.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.GirisPaneli.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.Properties.Resources.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.Rendevu.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.Rendevuİslemleri.resources
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\Debug\HaliSahaTakipOtomasyonu.exe.config
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\Debug\HaliSahaTakipOtomasyonu.exe
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\bin\Debug\HaliSahaTakipOtomasyonu.pdb
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.exe
+C:\Users\PC\source\repos\HaliSahaTakipOtomasyonu\HaliSahaTakipOtomasyonu\obj\Debug\HaliSahaTakipOtomasyonu.pdb
