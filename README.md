@@ -15,7 +15,7 @@ Astroturf Appointment System is a comprehensive automation solution for managing
 ### Registration and Authorization
 The purpose of registration is to allow each staff member to create a user account on their own PC and assign the appropriate permissions. There is only one authorized account in the system: **Username:** `Hamza`  **Password:** `1`. Other users can log in with accounts created by the admin.
 
-> **Note:** Accounts created during registration are authorized by the admin.
+> **Note:** Accounts created during the registration process are not authorized by the admin, the admin account must authorize from the users section
 
 ## Features
 - **User Management**
@@ -79,7 +79,7 @@ Halı Saha Takip Otomasyonu, halı saha işletmelerinin rezervasyon, gelir-gider
 ### Kayıt ve Yetkilendirme
 Kayıt işleminin amacı, her personelin kendi bilgisayarında bir kullanıcı hesabı oluşturmasını ve bu hesaba uygun yetkinin atanmasını sağlamaktır. Sistemde yalnızca bir yetkili hesap bulunmaktadır: **Kullanıcı adı:** `Hamza`  **Şifre:** `1`. Diğer kullanıcılar, admin tarafından oluşturulan hesaplarla sisteme giriş yapabilirler.
 
-> **Not:** Kayıt işlemi sırasında oluşturulan hesaplara admin tarafından yetki verilmektedir. 
+> **Not:** Kayıt işlemi sırasında oluşturulan hesaplara admin tarafından yetki verilmemektedir, admin hesap kullanicilar bölümünden yetki vermelidir. 
 
 ## Özellikler
 - **Kullanıcı Yönetimi**
