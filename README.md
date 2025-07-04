@@ -8,7 +8,6 @@ English Version 🇬🇧
 - [Installation](#installation)
 - [Usage](#usage)
 - [Admin Panel](#admin-panel)
-- [Contact](#contact)
 
 ## About the Project
 Astroturf Appointment System is a comprehensive automation solution for managing reservations, income-expense tracking, personnel, and customer relations for astroturf businesses. Developed with C# using Windows Forms.
@@ -73,7 +72,6 @@ Türkçe Versiyon 🇹🇷
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 - [Admin Paneli](#admin-paneli)
-- [İletişim](#i̇letişim)
 
 ## Proje Hakkında
 Halı Saha Takip Otomasyonu, halı saha işletmelerinin rezervasyon, gelir-gider takibi, personel yönetimi ve müşteri ilişkilerini yönetmelerini sağlayan kapsamlı bir otomasyon sistemidir. Windows Forms kullanılarak C# programlama dili ile geliştirilmiştir.
